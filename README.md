@@ -33,7 +33,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 - 进食图片，进食录像（外接模块可选）
 - 
 ## 改造计划
-![transform-pet-feeder.jpg](https://github.com/diwalyt/MiaoWan/tree/main/resouce/img/transform-pet-feeder.jpg)
+![transform-pet-feeder.jpg](https://github.com/diwalyt/MiaoWan/blob/main/resouce/img/transform-pet-feeder.jpg?raw=true)
 
 # 三、开发计划
 
