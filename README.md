@@ -37,7 +37,6 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 # 三、开发计划
 
-3月25前完成.
 1. 3月 6日 - 3月15日 完成改造机拆解。
 2. 3月16日 - 3月31日 电路设计，打板。
 3. 4月 1日 - 4月15日 准备物料，软件开发， 完成首版可演示Demo。
